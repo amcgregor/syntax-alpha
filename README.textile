@@ -13,7 +13,7 @@ h3. Features
 
 h3. The Future
 
-I have many, many plans for this application.  All of them are outlined on the "issue list":http://github.com/GothAlice/Syntax/issues.
+I have many, many plans for this application.  All of them are outlined on the "issue list":http://github.com/GothAlice/Syntax/issues.  Please vote on the tasks you would like completed first!
 
 h3. Acknowledgements / Credits
 

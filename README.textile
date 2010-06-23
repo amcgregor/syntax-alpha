@@ -1,0 +1,21 @@
+h2. Syntax
+
+bq. Syntax highlighting source code viewer for iOS devices.
+
+Currently this application is not designed for independant use; other applications (like Safari) call this application by using the @source://@ and @source-s://@ protocols.
+
+For convienence, you can bookmark <a href="javascript:(function(){window.location=window.location.href.replace('https://','source-s://').replace('http://','source://');})()">this bookmarklet</a> in Safari, which can then be synchronized to your phone.
+
+h3. Features
+
+* Syntax highlighting of a wide range of languages.
+* Callable by any application on any iOS device by calling a protocol handler.
+
+h3. The Future
+
+I have many, many plans for this application.  All of them are outlined on the "issue list":http://github.com/GothAlice/Syntax/issues.
+
+h3. Acknowledgements / Credits
+
+* The highlighting engine being used is "SHJS":http://shjs.sourceforge.net/, released under the GPLv3.
+* The default font (currently) is "Droid Sans Mono":http://android.git.kernel.org/?p=platform/frameworks/base.git;a=tree;f=data/fonts;hb=HEAD, released under the Apache-2.0 license.

@@ -20,6 +20,8 @@
 		735C464511D1FDCE000D43BD /* Default-Portrait.png in Resources */ = {isa = PBXBuildFile; fileRef = 735C464211D1FDCE000D43BD /* Default-Portrait.png */; };
 		735C464611D1FDCE000D43BD /* Icon.png in Resources */ = {isa = PBXBuildFile; fileRef = 735C464311D1FDCE000D43BD /* Icon.png */; };
 		735C464B11D1FDFD000D43BD /* MainWindow.xib in Resources */ = {isa = PBXBuildFile; fileRef = 735C464A11D1FDFD000D43BD /* MainWindow.xib */; };
+		735C466411D2019C000D43BD /* LICENSE in Resources */ = {isa = PBXBuildFile; fileRef = 735C466211D2019C000D43BD /* LICENSE */; };
+		735C466511D2019C000D43BD /* README.textile in Resources */ = {isa = PBXBuildFile; fileRef = 735C466311D2019C000D43BD /* README.textile */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -41,6 +43,8 @@
 		735C464211D1FDCE000D43BD /* Default-Portrait.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default-Portrait.png"; sourceTree = "<group>"; };
 		735C464311D1FDCE000D43BD /* Icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Icon.png; sourceTree = "<group>"; };
 		735C464A11D1FDFD000D43BD /* MainWindow.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = MainWindow.xib; path = Resources/MainWindow.xib; sourceTree = "<group>"; };
+		735C466211D2019C000D43BD /* LICENSE */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = LICENSE; sourceTree = "<group>"; };
+		735C466311D2019C000D43BD /* README.textile */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = README.textile; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -79,6 +83,8 @@
 		29B97314FDCFA39411CA2CEA /* CustomTemplate */ = {
 			isa = PBXGroup;
 			children = (
+				735C466311D2019C000D43BD /* README.textile */,
+				735C466211D2019C000D43BD /* LICENSE */,
 				73127FEB11D1DA85002C51DE /* WebRoot */,
 				080E96DDFE201D6D7F000001 /* Classes */,
 				735C463811D1FDA9000D43BD /* Source */,
@@ -179,6 +185,8 @@
 				735C464511D1FDCE000D43BD /* Default-Portrait.png in Resources */,
 				735C464611D1FDCE000D43BD /* Icon.png in Resources */,
 				735C464B11D1FDFD000D43BD /* MainWindow.xib in Resources */,
+				735C466411D2019C000D43BD /* LICENSE in Resources */,
+				735C466511D2019C000D43BD /* README.textile in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

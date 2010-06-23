@@ -34,6 +34,7 @@ var ext_mapper = {
     'c': 'c',
     'h': 'c',
     'm': 'c',
+    'css': 'css',
     'cpp': 'cpp',
     'c++': 'cpp',
     'cc': 'cpp',

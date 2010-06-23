@@ -15,7 +15,6 @@
 		732DA75711D163FA007A2846 /* CVBaseView.m in Sources */ = {isa = PBXBuildFile; fileRef = 732DA75611D163FA007A2846 /* CVBaseView.m */; };
 		735C463711D1FD8D000D43BD /* Fonts in Resources */ = {isa = PBXBuildFile; fileRef = 735C463311D1FD8D000D43BD /* Fonts */; };
 		735C463E11D1FDA9000D43BD /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 735C463A11D1FDA9000D43BD /* main.m */; };
-		735C463F11D1FDA9000D43BD /* Syntax-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 735C463B11D1FDA9000D43BD /* Syntax-Info.plist */; };
 		735C464411D1FDCE000D43BD /* Default-Landscape.png in Resources */ = {isa = PBXBuildFile; fileRef = 735C464111D1FDCE000D43BD /* Default-Landscape.png */; };
 		735C464511D1FDCE000D43BD /* Default-Portrait.png in Resources */ = {isa = PBXBuildFile; fileRef = 735C464211D1FDCE000D43BD /* Default-Portrait.png */; };
 		735C464611D1FDCE000D43BD /* Icon.png in Resources */ = {isa = PBXBuildFile; fileRef = 735C464311D1FDCE000D43BD /* Icon.png */; };
@@ -180,7 +179,6 @@
 			files = (
 				7312809811D1DA85002C51DE /* WebRoot in Resources */,
 				735C463711D1FD8D000D43BD /* Fonts in Resources */,
-				735C463F11D1FDA9000D43BD /* Syntax-Info.plist in Resources */,
 				735C464411D1FDCE000D43BD /* Default-Landscape.png in Resources */,
 				735C464511D1FDCE000D43BD /* Default-Portrait.png in Resources */,
 				735C464611D1FDCE000D43BD /* Icon.png in Resources */,

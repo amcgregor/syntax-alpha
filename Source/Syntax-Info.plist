@@ -9,107 +9,131 @@
 	<key>CFBundleDocumentTypes</key>
 	<array>
 		<dict>
-		    <key>CFBundleTypeName</key>
-            <string>C Source</string>
-            <key>CFBundleTypeExtensions</key>
-            <array>
-                <string>c</string>
-                <string>h</string>
-            </array>
-            <key>CFBundleTypeIconFiles</key>
-            <array>
-                <string>Icon.png</string>
-            </array>
-            <key>LSItemContentTypes</key>
-            <array>
-                <string>public.c-source</string>
-                <string>public.c-header</string>
-            </array>
+			<key>CFBundleTypeName</key>
+			<string>Generic File</string>
+			<key>CFBundleTypeIconFiles</key>
+			<array>
+				<string>Icon.png</string>
+			</array>
+			<key>LSItemContentTypes</key>
+			<array>
+				<string>public.data</string>
+			</array>
 		</dict>
 		<dict>
-		    <key>CFBundleTypeName</key>
-            <string>C++ Source</string>
-            <key>CFBundleTypeExtensions</key>
-            <array>
-                <string>cc</string>
-                <string>cxx</string>
-                <string>cpp</string>
-                <string>c++</string>
-            </array>
-            <key>CFBundleTypeIconFiles</key>
-            <array>
-                <string>Icon.png</string>
-            </array>
-            <key>LSItemContentTypes</key>
-            <array>
-                <string>public.c-plus-plus-source</string>
-            </array>
+			<key>CFBundleTypeName</key>
+			<string>JavaScript Code</string>
+			<key>CFBundleTypeExtensions</key>
+			<array>
+				<string>js</string>
+			</array>
+			<key>CFBundleTypeIconFiles</key>
+			<array>
+				<string>Icon.png</string>
+			</array>
+			<key>LSItemContentTypes</key>
+			<array>
+				<string>com.netscape.javascript-source</string>
+			</array>
 		</dict>
 		<dict>
-		    <key>CFBundleTypeName</key>
-            <string>Objective-C Source</string>
-            <key>CFBundleTypeExtensions</key>
-            <array>
-                <string>m</string>
-            </array>
-            <key>CFBundleTypeIconFiles</key>
-            <array>
-                <string>Icon.png</string>
-            </array>
-            <key>LSItemContentTypes</key>
-            <array>
-                <string>public.objective-c-source</string>
-            </array>
+			<key>CFBundleTypeName</key>
+			<string>C Source</string>
+			<key>CFBundleTypeExtensions</key>
+			<array>
+				<string>c</string>
+				<string>h</string>
+			</array>
+			<key>CFBundleTypeIconFiles</key>
+			<array>
+				<string>Icon.png</string>
+			</array>
+			<key>LSItemContentTypes</key>
+			<array>
+				<string>public.c-source</string>
+				<string>public.c-header</string>
+			</array>
 		</dict>
 		<dict>
-		    <key>CFBundleTypeName</key>
-            <string>HTML Document</string>
-            <key>CFBundleTypeExtensions</key>
-            <array>
-                <string>htm</string>
-                <string>html</string>
-            </array>
-            <key>CFBundleTypeIconFiles</key>
-            <array>
-                <string>Icon.png</string>
-            </array>
-            <key>LSItemContentTypes</key>
-            <array>
-                <string>public.html</string>
-            </array>
+			<key>CFBundleTypeName</key>
+			<string>C++ Source</string>
+			<key>CFBundleTypeExtensions</key>
+			<array>
+				<string>cc</string>
+				<string>cxx</string>
+				<string>cpp</string>
+				<string>c++</string>
+			</array>
+			<key>CFBundleTypeIconFiles</key>
+			<array>
+				<string>Icon.png</string>
+			</array>
+			<key>LSItemContentTypes</key>
+			<array>
+				<string>public.c-plus-plus-source</string>
+			</array>
 		</dict>
 		<dict>
-		    <key>CFBundleTypeName</key>
-            <string>Cascading Stylesheet</string>
-            <key>CFBundleTypeExtensions</key>
-            <array>
-                <string>css</string>
-            </array>
-            <key>CFBundleTypeIconFiles</key>
-            <array>
-                <string>Icon.png</string>
-            </array>
-            <key>LSItemContentTypes</key>
-            <array>
-                <string>com.apple.dashcode.css</string>
-                <string>public.css</string>
-            </array>
+			<key>CFBundleTypeName</key>
+			<string>Objective-C Source</string>
+			<key>CFBundleTypeExtensions</key>
+			<array>
+				<string>m</string>
+			</array>
+			<key>CFBundleTypeIconFiles</key>
+			<array>
+				<string>Icon.png</string>
+			</array>
+			<key>LSItemContentTypes</key>
+			<array>
+				<string>public.objective-c-source</string>
+			</array>
 		</dict>
 		<dict>
-		    <key>CFBundleTypeName</key>
-            <string>JavaScript Code</string>
-            <key>CFBundleTypeExtensions</key>
-            <array>
-                <string>js</string>
-            </array>
-            <key>CFBundleTypeIconFiles</key>
-            <array>
-                <string>Icon.png</string>
-            </array>
-            <key>LSItemContentTypes</key>
-            <array>
-                <string>com.netscape.javascript-source</string>
-            </array>
+			<key>CFBundleTypeName</key>
+			<string>HTML Document</string>
+			<key>CFBundleTypeExtensions</key>
+			<array>
+				<string>htm</string>
+				<string>html</string>
+			</array>
+			<key>CFBundleTypeIconFiles</key>
+			<array>
+				<string>Icon.png</string>
+			</array>
+			<key>LSItemContentTypes</key>
+			<array>
+				<string>public.html</string>
+			</array>
+		</dict>
+		<dict>
+			<key>CFBundleTypeName</key>
+			<string>Cascading Stylesheet</string>
+			<key>CFBundleTypeExtensions</key>
+			<array>
+				<string>css</string>
+			</array>
+			<key>CFBundleTypeIconFiles</key>
+			<array>
+				<string>Icon.png</string>
+			</array>
+			<key>LSItemContentTypes</key>
+			<array>
+				<string>com.apple.dashcode.css</string>
+				<string>public.css</string>
+			</array>
+		</dict>
+		<dict>
+			<key>CFBundleTypeName</key>
+			<string>Text Document</string>
+			<key>CFBundleTypeIconFiles</key>
+			<array>
+				<string>Icon.png</string>
+			</array>
+			<key>LSItemContentTypes</key>
+			<array>
+				<string>public.text</string>
+			</array>
 		</dict>
 	</array>
 	<key>CFBundleExecutable</key>

@@ -32,6 +32,8 @@ loose:  /^(?:(?![^:@]+:[^:@\/]*@)([^:\/?#.]+):)?(?:\/\/)?((?:(([^:@]*)(?::([^:@]
 // http://www.fileinfo.com/list/x
 var ext_mapper = {
     'c': 'c',
+    'h': 'c',
+    'm': 'c',
     'cpp': 'cpp',
     'c++': 'cpp',
     'cc': 'cpp',

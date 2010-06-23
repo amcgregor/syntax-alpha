@@ -6,6 +6,112 @@
 	<string>English</string>
 	<key>CFBundleDisplayName</key>
 	<string>Syntax</string>
+	<key>CFBundleDocumentTypes</key>
+	<array>
+		<dict>
+		    <key>CFBundleTypeName</key>
+            <string>C Source</string>
+            <key>CFBundleTypeExtensions</key>
+            <array>
+                <string>c</string>
+                <string>h</string>
+            </array>
+            <key>CFBundleTypeIconFiles</key>
+            <array>
+                <string>Icon.png</string>
+            </array>
+            <key>LSItemContentTypes</key>
+            <array>
+                <string>public.c-source</string>
+                <string>public.c-header</string>
+            </array>
+		</dict>
+		<dict>
+		    <key>CFBundleTypeName</key>
+            <string>C++ Source</string>
+            <key>CFBundleTypeExtensions</key>
+            <array>
+                <string>cc</string>
+                <string>cxx</string>
+                <string>cpp</string>
+                <string>c++</string>
+            </array>
+            <key>CFBundleTypeIconFiles</key>
+            <array>
+                <string>Icon.png</string>
+            </array>
+            <key>LSItemContentTypes</key>
+            <array>
+                <string>public.c-plus-plus-source</string>
+            </array>
+		</dict>
+		<dict>
+		    <key>CFBundleTypeName</key>
+            <string>Objective-C Source</string>
+            <key>CFBundleTypeExtensions</key>
+            <array>
+                <string>m</string>
+            </array>
+            <key>CFBundleTypeIconFiles</key>
+            <array>
+                <string>Icon.png</string>
+            </array>
+            <key>LSItemContentTypes</key>
+            <array>
+                <string>public.objective-c-source</string>
+            </array>
+		</dict>
+		<dict>
+		    <key>CFBundleTypeName</key>
+            <string>HTML Document</string>
+            <key>CFBundleTypeExtensions</key>
+            <array>
+                <string>htm</string>
+                <string>html</string>
+            </array>
+            <key>CFBundleTypeIconFiles</key>
+            <array>
+                <string>Icon.png</string>
+            </array>
+            <key>LSItemContentTypes</key>
+            <array>
+                <string>public.html</string>
+            </array>
+		</dict>
+		<dict>
+		    <key>CFBundleTypeName</key>
+            <string>Cascading Stylesheet</string>
+            <key>CFBundleTypeExtensions</key>
+            <array>
+                <string>css</string>
+            </array>
+            <key>CFBundleTypeIconFiles</key>
+            <array>
+                <string>Icon.png</string>
+            </array>
+            <key>LSItemContentTypes</key>
+            <array>
+                <string>com.apple.dashcode.css</string>
+                <string>public.css</string>
+            </array>
+		</dict>
+		<dict>
+		    <key>CFBundleTypeName</key>
+            <string>JavaScript Code</string>
+            <key>CFBundleTypeExtensions</key>
+            <array>
+                <string>js</string>
+            </array>
+            <key>CFBundleTypeIconFiles</key>
+            <array>
+                <string>Icon.png</string>
+            </array>
+            <key>LSItemContentTypes</key>
+            <array>
+                <string>com.netscape.javascript-source</string>
+            </array>
+		</dict>
+	</array>
 	<key>CFBundleExecutable</key>
 	<string>Syntax</string>
 	<key>CFBundleIconFile</key>
@@ -20,14 +126,6 @@
 	<string>APPL</string>
 	<key>CFBundleSignature</key>
 	<string>????</string>
-	<key>UIFileSharingEnabled</key>
-	<false/>
-	<key>CFBundleVersion</key>
-	<string>1.0</string>
-	<key>LSRequiresIPhoneOS</key>
-	<true/>
-	<key>NSMainNibFile</key>
-	<string>MainWindow</string>
 	<key>CFBundleURLTypes</key>
 	<array>
 		<dict>
@@ -41,17 +139,25 @@
 			</array>
 		</dict>
 	</array>
+	<key>CFBundleVersion</key>
+	<string>1.0</string>
+	<key>LSRequiresIPhoneOS</key>
+	<true/>
+	<key>NSMainNibFile</key>
+	<string>MainWindow</string>
+	<key>UIAppFonts</key>
+	<array>
+		<string>Inconsolata.otf</string>
+		<string>DroidSansMono.ttf</string>
+	</array>
+	<key>UIFileSharingEnabled</key>
+	<false/>
 	<key>UISupportedInterfaceOrientations</key>
 	<array>
 		<string>UIInterfaceOrientationPortrait</string>
 		<string>UIInterfaceOrientationPortraitUpsideDown</string>
 		<string>UIInterfaceOrientationLandscapeLeft</string>
 		<string>UIInterfaceOrientationLandscapeRight</string>
-	</array>
-	<key>UIAppFonts</key>
-	<array>
-		<string>Inconsolata.otf</string>
-		<string>DroidSansMono.ttf</string>
 	</array>
 </dict>
 </plist>

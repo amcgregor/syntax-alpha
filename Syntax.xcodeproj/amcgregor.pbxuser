@@ -9,9 +9,9 @@
 	};
 	1D3623250D0F684500981E51 /* CodeViewAppDelegate.m */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {1104, 1417}}";
-			sepNavSelRange = "{1928, 0}";
-			sepNavVisRange = "{725, 957}";
+			sepNavIntBoundsRect = "{{0, 0}, {1965, 1339}}";
+			sepNavSelRange = "{1407, 0}";
+			sepNavVisRange = "{196, 2105}";
 			sepNavWindowFrame = "{{15, 4}, {1506, 1174}}";
 		};
 	};
@@ -120,8 +120,8 @@
 					PBXFileDataSource_Warnings_ColumnID,
 				);
 			};
-			PBXPerProjectTemplateStateSaveDate = 298970980;
-			PBXWorkspaceStateSaveDate = 298970980;
+			PBXPerProjectTemplateStateSaveDate = 298974556;
+			PBXWorkspaceStateSaveDate = 298974556;
 		};
 		perUserProjectItems = {
 			73127EFD11D1C763002C51DE = 73127EFD11D1C763002C51DE /* PBXTextBookmark */;
@@ -132,28 +132,28 @@
 			731281F411D1E1E9002C51DE = 731281F411D1E1E9002C51DE /* PBXBookmark */;
 			7312820711D1EF48002C51DE = 7312820711D1EF48002C51DE /* PBXTextBookmark */;
 			7312820811D1EF48002C51DE = 7312820811D1EF48002C51DE /* PBXBookmark */;
-			7312820A11D1EF48002C51DE = 7312820A11D1EF48002C51DE /* PlistBookmark */;
-			7312821211D1EF54002C51DE = 7312821211D1EF54002C51DE /* PlistBookmark */;
 			732DAB4B11D1B99C007A2846 = 732DAB4B11D1B99C007A2846 /* PBXTextBookmark */;
-			73F3AE3611D1EF66004006A6 /* PlistBookmark */ = 73F3AE3611D1EF66004006A6 /* PlistBookmark */;
-			73F3AE3C11D1EF81004006A6 /* PlistBookmark */ = 73F3AE3C11D1EF81004006A6 /* PlistBookmark */;
-			73F3AE3F11D1EF95004006A6 /* PlistBookmark */ = 73F3AE3F11D1EF95004006A6 /* PlistBookmark */;
-			73F3AE4211D1F039004006A6 /* PlistBookmark */ = 73F3AE4211D1F039004006A6 /* PlistBookmark */;
-			73F3AE4811D1F0D6004006A6 /* PlistBookmark */ = 73F3AE4811D1F0D6004006A6 /* PlistBookmark */;
-			73F3AE4911D1F0D6004006A6 /* PlistBookmark */ = 73F3AE4911D1F0D6004006A6 /* PlistBookmark */;
-			73F3AE4A11D1F0D6004006A6 /* PlistBookmark */ = 73F3AE4A11D1F0D6004006A6 /* PlistBookmark */;
-			73F3AE4B11D1F0DA004006A6 /* PlistBookmark */ = 73F3AE4B11D1F0DA004006A6 /* PlistBookmark */;
-			73F3AE4E11D1F1F7004006A6 /* PlistBookmark */ = 73F3AE4E11D1F1F7004006A6 /* PlistBookmark */;
-			73F3AE6011D1F29C004006A6 /* PlistBookmark */ = 73F3AE6011D1F29C004006A6 /* PlistBookmark */;
-			73F3AE6111D1F29C004006A6 /* PlistBookmark */ = 73F3AE6111D1F29C004006A6 /* PlistBookmark */;
-			73F3AE7611D1F37D004006A6 /* PlistBookmark */ = 73F3AE7611D1F37D004006A6 /* PlistBookmark */;
-			73F3AE7A11D1F3DA004006A6 /* PlistBookmark */ = 73F3AE7A11D1F3DA004006A6 /* PlistBookmark */;
+			735C465711D20067000D43BD /* PlistBookmark */ = 735C465711D20067000D43BD /* PlistBookmark */;
+			735C465811D20067000D43BD /* PBXTextBookmark */ = 735C465811D20067000D43BD /* PBXTextBookmark */;
+			735C465911D20067000D43BD /* PlistBookmark */ = 735C465911D20067000D43BD /* PlistBookmark */;
+			735C465A11D20067000D43BD /* PBXTextBookmark */ = 735C465A11D20067000D43BD /* PBXTextBookmark */;
+			735C465B11D20067000D43BD /* PBXTextBookmark */ = 735C465B11D20067000D43BD /* PBXTextBookmark */;
+			735C466111D20070000D43BD /* PBXTextBookmark */ = 735C466111D20070000D43BD /* PBXTextBookmark */;
+			73F3AE4811D1F0D6004006A6 = 73F3AE4811D1F0D6004006A6 /* PlistBookmark */;
+			73F3AE6011D1F29C004006A6 = 73F3AE6011D1F29C004006A6 /* PlistBookmark */;
+			73F3AE7B11D1FAB2004006A6 = 73F3AE7B11D1FAB2004006A6 /* PlistBookmark */;
 		};
 		sourceControlManager = 732DA4EA11D1544F007A2846 /* Source Control */;
 		userBuildSettings = {
 		};
 	};
 	32CA4F630368D1EE00C91783 /* Syntax_Prefix.pch */ = {
+		isa = PBXFileReference;
+		fileEncoding = 4;
+		lastKnownFileType = sourcecode.c.h;
+		name = Syntax_Prefix.pch;
+		path = /Users/amcgregor/Projects/iOS/Syntax/Syntax_Prefix.pch;
+		sourceTree = "<absolute>";
 		uiCtxt = {
 			sepNavIntBoundsRect = "{{0, 0}, {1578, 797}}";
 			sepNavSelRange = "{185, 0}";
@@ -169,6 +169,13 @@
 		rType = 0;
 		vrLen = 952;
 		vrLoc = 0;
+	};
+	73127F2911D1D16C002C51DE /* Icon.png */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = image.png;
+		name = Icon.png;
+		path = /Users/amcgregor/Projects/iOS/Syntax/Icon.png;
+		sourceTree = "<absolute>";
 	};
 	73127F2F11D1D187002C51DE /* PBXTextBookmark */ = {
 		isa = PBXTextBookmark;
@@ -201,6 +208,20 @@
 		path = /Users/amcgregor/Projects/iOS/Syntax/WebRoot/index.html;
 		sourceTree = "<absolute>";
 	};
+	731281DB11D1E060002C51DE /* Default-Portrait.png */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = image.png;
+		name = "Default-Portrait.png";
+		path = "/Users/amcgregor/Projects/iOS/Syntax/Default-Portrait.png";
+		sourceTree = "<absolute>";
+	};
+	731281E111D1E0F8002C51DE /* Default-Landscape.png */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = image.png;
+		name = "Default-Landscape.png";
+		path = "/Users/amcgregor/Projects/iOS/Syntax/Default-Landscape.png";
+		sourceTree = "<absolute>";
+	};
 	731281F111D1E1E9002C51DE /* PBXTextBookmark */ = {
 		isa = PBXTextBookmark;
 		fRef = 32CA4F630368D1EE00C91783 /* Syntax_Prefix.pch */;
@@ -228,28 +249,6 @@
 	7312820811D1EF48002C51DE /* PBXBookmark */ = {
 		isa = PBXBookmark;
 		fRef = 731281E111D1E0F8002C51DE /* Default-Landscape.png */;
-	};
-	7312820A11D1EF48002C51DE /* PlistBookmark */ = {
-		isa = PlistBookmark;
-		fRef = 8D1107310486CEB800E47090 /* Syntax-Info.plist */;
-		fallbackIsa = PBXBookmark;
-		isK = 0;
-		kPath = (
-		);
-		name = "/Users/amcgregor/Projects/iOS/Syntax/Syntax-Info.plist";
-		rLen = 0;
-		rLoc = 9223372036854775808;
-	};
-	7312821211D1EF54002C51DE /* PlistBookmark */ = {
-		isa = PlistBookmark;
-		fRef = 8D1107310486CEB800E47090 /* Syntax-Info.plist */;
-		fallbackIsa = PBXBookmark;
-		isK = 0;
-		kPath = (
-		);
-		name = "/Users/amcgregor/Projects/iOS/Syntax/Syntax-Info.plist";
-		rLen = 0;
-		rLoc = 9223372036854775808;
 	};
 	732DA4D811D15449007A2846 /* Syntax */ = {
 		isa = PBXExecutable;
@@ -321,49 +320,82 @@
 		vrLen = 710;
 		vrLoc = 0;
 	};
-	73F3AE3611D1EF66004006A6 /* PlistBookmark */ = {
+	735C463A11D1FDA9000D43BD /* main.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1578, 787}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 378}";
+		};
+	};
+	735C465711D20067000D43BD /* PlistBookmark */ = {
 		isa = PlistBookmark;
-		fRef = 8D1107310486CEB800E47090 /* Syntax-Info.plist */;
+		fRef = 735C463911D1FDA9000D43BD /* Entitlements.plist */;
 		fallbackIsa = PBXBookmark;
 		isK = 0;
 		kPath = (
 		);
-		name = "/Users/amcgregor/Projects/iOS/Syntax/Syntax-Info.plist";
+		name = /Users/amcgregor/Projects/iOS/Syntax/Source/Entitlements.plist;
 		rLen = 0;
 		rLoc = 9223372036854775807;
 	};
-	73F3AE3C11D1EF81004006A6 /* PlistBookmark */ = {
+	735C465811D20067000D43BD /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 735C463A11D1FDA9000D43BD /* main.m */;
+		name = "main.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 378;
+		vrLoc = 0;
+	};
+	735C465911D20067000D43BD /* PlistBookmark */ = {
 		isa = PlistBookmark;
-		fRef = 8D1107310486CEB800E47090 /* Syntax-Info.plist */;
+		fRef = 735C463B11D1FDA9000D43BD /* Syntax-Info.plist */;
 		fallbackIsa = PBXBookmark;
 		isK = 0;
 		kPath = (
 		);
-		name = "/Users/amcgregor/Projects/iOS/Syntax/Syntax-Info.plist";
+		name = "/Users/amcgregor/Projects/iOS/Syntax/Source/Syntax-Info.plist";
 		rLen = 0;
 		rLoc = 9223372036854775807;
 	};
-	73F3AE3F11D1EF95004006A6 /* PlistBookmark */ = {
-		isa = PlistBookmark;
-		fRef = 8D1107310486CEB800E47090 /* Syntax-Info.plist */;
-		fallbackIsa = PBXBookmark;
-		isK = 0;
-		kPath = (
-		);
-		name = "/Users/amcgregor/Projects/iOS/Syntax/Syntax-Info.plist";
+	735C465A11D20067000D43BD /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* CodeViewAppDelegate.m */;
+		name = "CodeViewAppDelegate.m: 48";
 		rLen = 0;
-		rLoc = 9223372036854775807;
+		rLoc = 1407;
+		rType = 0;
+		vrLen = 2255;
+		vrLoc = 196;
 	};
-	73F3AE4211D1F039004006A6 /* PlistBookmark */ = {
-		isa = PlistBookmark;
-		fRef = 8D1107310486CEB800E47090 /* Syntax-Info.plist */;
-		fallbackIsa = PBXBookmark;
-		isK = 0;
-		kPath = (
-		);
-		name = "/Users/amcgregor/Projects/iOS/Syntax/Syntax-Info.plist";
+	735C465B11D20067000D43BD /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* CodeViewAppDelegate.m */;
+		name = "CodeViewAppDelegate.m: 48";
 		rLen = 0;
-		rLoc = 9223372036854775807;
+		rLoc = 1407;
+		rType = 0;
+		vrLen = 2255;
+		vrLoc = 196;
+	};
+	735C466111D20070000D43BD /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* CodeViewAppDelegate.m */;
+		name = "CodeViewAppDelegate.m: 48";
+		rLen = 0;
+		rLoc = 1407;
+		rType = 0;
+		vrLen = 2105;
+		vrLoc = 196;
+	};
+	73F3AE4511D1F081004006A6 /* Entitlements.plist */ = {
+		isa = PBXFileReference;
+		fileEncoding = 4;
+		lastKnownFileType = text.plist.xml;
+		name = Entitlements.plist;
+		path = /Users/amcgregor/Projects/iOS/Syntax/Entitlements.plist;
+		sourceTree = "<absolute>";
 	};
 	73F3AE4811D1F0D6004006A6 /* PlistBookmark */ = {
 		isa = PlistBookmark;
@@ -374,51 +406,7 @@
 		);
 		name = "/Users/amcgregor/Projects/iOS/Syntax/Syntax-Info.plist";
 		rLen = 0;
-		rLoc = 9223372036854775807;
-	};
-	73F3AE4911D1F0D6004006A6 /* PlistBookmark */ = {
-		isa = PlistBookmark;
-		fRef = 73F3AE4511D1F081004006A6 /* Entitlements.plist */;
-		fallbackIsa = PBXBookmark;
-		isK = 0;
-		kPath = (
-		);
-		name = /Users/amcgregor/Projects/iOS/Syntax/Entitlements.plist;
-		rLen = 0;
-		rLoc = 9223372036854775807;
-	};
-	73F3AE4A11D1F0D6004006A6 /* PlistBookmark */ = {
-		isa = PlistBookmark;
-		fRef = 73F3AE4511D1F081004006A6 /* Entitlements.plist */;
-		fallbackIsa = PBXBookmark;
-		isK = 0;
-		kPath = (
-		);
-		name = /Users/amcgregor/Projects/iOS/Syntax/Entitlements.plist;
-		rLen = 0;
-		rLoc = 9223372036854775807;
-	};
-	73F3AE4B11D1F0DA004006A6 /* PlistBookmark */ = {
-		isa = PlistBookmark;
-		fRef = 73F3AE4511D1F081004006A6 /* Entitlements.plist */;
-		fallbackIsa = PBXBookmark;
-		isK = 0;
-		kPath = (
-		);
-		name = /Users/amcgregor/Projects/iOS/Syntax/Entitlements.plist;
-		rLen = 0;
-		rLoc = 9223372036854775807;
-	};
-	73F3AE4E11D1F1F7004006A6 /* PlistBookmark */ = {
-		isa = PlistBookmark;
-		fRef = 73F3AE4511D1F081004006A6 /* Entitlements.plist */;
-		fallbackIsa = PBXBookmark;
-		isK = 0;
-		kPath = (
-		);
-		name = /Users/amcgregor/Projects/iOS/Syntax/Entitlements.plist;
-		rLen = 0;
-		rLoc = 9223372036854775807;
+		rLoc = 9223372036854775808;
 	};
 	73F3AE6011D1F29C004006A6 /* PlistBookmark */ = {
 		isa = PlistBookmark;
@@ -429,9 +417,9 @@
 		);
 		name = /Users/amcgregor/Projects/iOS/Syntax/Entitlements.plist;
 		rLen = 0;
-		rLoc = 9223372036854775807;
+		rLoc = 9223372036854775808;
 	};
-	73F3AE6111D1F29C004006A6 /* PlistBookmark */ = {
+	73F3AE7B11D1FAB2004006A6 /* PlistBookmark */ = {
 		isa = PlistBookmark;
 		fRef = 73F3AE4511D1F081004006A6 /* Entitlements.plist */;
 		fallbackIsa = PBXBookmark;
@@ -440,31 +428,16 @@
 		);
 		name = /Users/amcgregor/Projects/iOS/Syntax/Entitlements.plist;
 		rLen = 0;
-		rLoc = 9223372036854775807;
-	};
-	73F3AE7611D1F37D004006A6 /* PlistBookmark */ = {
-		isa = PlistBookmark;
-		fRef = 73F3AE4511D1F081004006A6 /* Entitlements.plist */;
-		fallbackIsa = PBXBookmark;
-		isK = 0;
-		kPath = (
-		);
-		name = /Users/amcgregor/Projects/iOS/Syntax/Entitlements.plist;
-		rLen = 0;
-		rLoc = 9223372036854775807;
-	};
-	73F3AE7A11D1F3DA004006A6 /* PlistBookmark */ = {
-		isa = PlistBookmark;
-		fRef = 73F3AE4511D1F081004006A6 /* Entitlements.plist */;
-		fallbackIsa = PBXBookmark;
-		isK = 0;
-		kPath = (
-		);
-		name = /Users/amcgregor/Projects/iOS/Syntax/Entitlements.plist;
-		rLen = 0;
-		rLoc = 9223372036854775807;
+		rLoc = 9223372036854775808;
 	};
 	8D1107310486CEB800E47090 /* Syntax-Info.plist */ = {
+		isa = PBXFileReference;
+		fileEncoding = 4;
+		lastKnownFileType = text.plist.xml;
+		name = "Syntax-Info.plist";
+		path = "/Users/amcgregor/Projects/iOS/Syntax/Syntax-Info.plist";
+		plistStructureDefinitionIdentifier = "com.apple.xcode.plist.structure-definition.iphone.info-plist";
+		sourceTree = "<absolute>";
 		uiCtxt = {
 			sepNavWindowFrame = "{{15, 4}, {1506, 1174}}";
 		};

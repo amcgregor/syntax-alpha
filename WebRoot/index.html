@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html>
+    <!--
+        
+    Welcome to Syntax, the syntax highlighting source code viewer.
+    
+    This application is intended to be launched from other
+    applications, such as Safari, not used directly.  What you are
+    currently viewing is the source code for the viewer itself; how meta!
+    
+    Adding a bookmarklet to Safari to allow you to view the source of
+    any page currently displayed is easy; bookmark any page (the shorter
+    the URL, the easier to replace), then find and modify the bookmark.
+    Change the address to the following:
+        
+        javascript:(function(){window.location=window.location.href.replace('https://','source-s://').replace('http://','source://');})()
+        
+    Other applications in the system can open this one by launching any URL
+    beginning in source:// or source-s://.  The resulting page will be
+    downloaded via HTTP or HTTPS, respectively, then viewed in full color!
+        
+    The folowing languages are currenty supported and detected based on
+    filename extension:
+        
+     - C, C++, C#
+     - CSS
+     - diff, patch
+     - ActionScript
+     - HTML
+     - Java
+     - JavaScript
+     - LaTeX
+     - Generic Logfiles
+     - M4
+     - Pascal
+     - Perl
+     - PHP
+     - Python
+     - Ruby
+     - Scala
+     - Shell Script (sh / bash)
+     - SQL
+     - TCL
+     - XML
+        
+    I understand that there are many features you would like added to this
+    software.  The following is a to-do list of features coming up in
+    future updates:
+    
+     - Document Interaction Support (Open attachments from Mail, etc.)
+     - Line Numbers
+     - Word Wrap
+     - Theme Selection
+     - Font Selection & Font Size
+     - Local File Storage (via iTunes)
+     - ZIP File Browsing for Local Storage
+     - Faster Rendering
+     - Improved Link Support
+     - Additional Syntaxes
+     - Override Active Syntax
+     - Custom Themes
+     - iPhone Support
+    
+    This application is open source under the MIT license (distributed
+    commercially to recoup cost of development) and available online:
+    
+        http://github.com/GothAlice/Syntax
+    
+    Available on the project page are a wiki and issue tracker.
+    
+    The highlighting engine being used is SHJS released under the GPLv3.
+    
+        http://shjs.sourceforge.net/
+        
+    -->
+    
+    <head>
+        <meta charset="utf-8">
+
+        <script type="text/javascript" src="js/jquery.min.js"></script>
+        <script type="text/javascript" src="js/sh_main.min.js"></script>
+        
+        <link type="text/css" rel="stylesheet" href="css/default.css">
+        <link type="text/css" rel="stylesheet" href="css/cus_twilight.css">
+        
+        <script type="text/javascript" src="js/default.js"></script>
+    </head>
+    
+    <body></body>
+</html>

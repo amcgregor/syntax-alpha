@@ -28,8 +28,6 @@
 	<true/>
 	<key>NSMainNibFile</key>
 	<string>MainWindow</string>
-	<key>UILaunchImageFile~ipad</key>
-	<string></string>
 	<key>CFBundleURLTypes</key>
 	<array>
 		<dict>

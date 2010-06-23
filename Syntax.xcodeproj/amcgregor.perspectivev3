@@ -308,8 +308,6 @@
 			<key>Layout</key>
 			<array>
 				<dict>
-					<key>BecomeActive</key>
-					<true/>
 					<key>ContentConfiguration</key>
 					<dict>
 						<key>PBXBottomSmartGroupGIDs</key>
@@ -406,6 +404,10 @@
 										<string>732DA4E511D1544F007A2846</string>
 										<key>PBXProjectModuleLabel</key>
 										<string>index.html</string>
+										<key>_historyCapacity</key>
+										<integer>0</integer>
+										<key>bookmark</key>
+										<string>731281D111D1DF5E002C51DE</string>
 										<key>history</key>
 										<array>
 											<string>732DAB4B11D1B99C007A2846</string>
@@ -413,6 +415,8 @@
 											<string>73127F2F11D1D187002C51DE</string>
 											<string>731280F611D1DC0C002C51DE</string>
 											<string>7312810211D1DDCB002C51DE</string>
+											<string>731281CA11D1DF55002C51DE</string>
+											<string>731281CD11D1DF55002C51DE</string>
 										</array>
 									</dict>
 									<key>SplitCount</key>
@@ -426,18 +430,18 @@
 							<key>GeometryConfiguration</key>
 							<dict>
 								<key>Frame</key>
-								<string>{{0, 0}, {1639, 834}}</string>
+								<string>{{0, 0}, {1639, 829}}</string>
 								<key>RubberWindowFrame</key>
 								<string>0 39 1920 1139 0 0 1920 1178 </string>
 							</dict>
 							<key>Module</key>
 							<string>PBXNavigatorGroup</string>
 							<key>Proportion</key>
-							<string>834pt</string>
+							<string>829pt</string>
 						</dict>
 						<dict>
 							<key>Proportion</key>
-							<string>259pt</string>
+							<string>264pt</string>
 							<key>Tabs</key>
 							<array>
 								<dict>
@@ -451,9 +455,7 @@
 									<key>GeometryConfiguration</key>
 									<dict>
 										<key>Frame</key>
-										<string>{{10, 27}, {1639, 232}}</string>
-										<key>RubberWindowFrame</key>
-										<string>0 39 1920 1139 0 0 1920 1178 </string>
+										<string>{{10, 27}, {1639, 237}}</string>
 									</dict>
 									<key>Module</key>
 									<string>XCDetailModule</string>
@@ -507,7 +509,9 @@
 									<key>GeometryConfiguration</key>
 									<dict>
 										<key>Frame</key>
-										<string>{{10, 27}, {1639, 227}}</string>
+										<string>{{10, 27}, {1639, 237}}</string>
+										<key>RubberWindowFrame</key>
+										<string>0 39 1920 1139 0 0 1920 1178 </string>
 									</dict>
 									<key>Module</key>
 									<string>PBXBuildResultsModule</string>
@@ -535,11 +539,11 @@
 			</array>
 			<key>TableOfContents</key>
 			<array>
-				<string>731281BE11D1DE0B002C51DE</string>
+				<string>731281D211D1DF5E002C51DE</string>
 				<string>1CA23ED40692098700951B8B</string>
-				<string>731281BF11D1DE0B002C51DE</string>
+				<string>731281D311D1DF5E002C51DE</string>
 				<string>732DA4E411D1544F007A2846</string>
-				<string>731281C011D1DE0B002C51DE</string>
+				<string>731281D411D1DF5E002C51DE</string>
 				<string>1CA23EDF0692099D00951B8B</string>
 				<string>1CA23EE00692099D00951B8B</string>
 				<string>1CA23EE10692099D00951B8B</string>
@@ -688,14 +692,14 @@
 			</array>
 			<key>TableOfContents</key>
 			<array>
-				<string>73127EBD11D1BCD6002C51DE</string>
+				<string>731281D511D1DF5E002C51DE</string>
 				<string>1CCC7628064C1048000F2A68</string>
 				<string>1CCC7629064C1048000F2A68</string>
-				<string>73127EBE11D1BCD6002C51DE</string>
-				<string>73127EBF11D1BCD6002C51DE</string>
-				<string>73127EC011D1BCD6002C51DE</string>
-				<string>73127EC111D1BCD6002C51DE</string>
-				<string>73127EC211D1BCD6002C51DE</string>
+				<string>731281D611D1DF5E002C51DE</string>
+				<string>731281D711D1DF5E002C51DE</string>
+				<string>731281D811D1DF5E002C51DE</string>
+				<string>731281D911D1DF5E002C51DE</string>
+				<string>731281DA11D1DF5E002C51DE</string>
 			</array>
 			<key>ToolbarConfigUserDefaultsMinorVersion</key>
 			<string>2</string>
@@ -712,7 +716,7 @@
 	<key>StatusbarIsVisible</key>
 	<true/>
 	<key>TimeStamp</key>
-	<real>298966628.770859</real>
+	<real>298966878.26005101</real>
 	<key>ToolbarConfigUserDefaultsMinorVersion</key>
 	<string>2</string>
 	<key>ToolbarDisplayMode</key>

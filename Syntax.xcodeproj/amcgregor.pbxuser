@@ -132,6 +132,10 @@
 			7312810211D1DDCB002C51DE = 7312810211D1DDCB002C51DE /* PlistBookmark */;
 			7312810311D1DDCB002C51DE = 7312810311D1DDCB002C51DE /* PBXTextBookmark */;
 			7312810811D1DDFB002C51DE = 7312810811D1DDFB002C51DE /* PBXTextBookmark */;
+			731281CA11D1DF55002C51DE /* PBXBookmark */ = 731281CA11D1DF55002C51DE /* PBXBookmark */;
+			731281CB11D1DF55002C51DE /* PBXTextBookmark */ = 731281CB11D1DF55002C51DE /* PBXTextBookmark */;
+			731281CD11D1DF55002C51DE /* PBXTextBookmark */ = 731281CD11D1DF55002C51DE /* PBXTextBookmark */;
+			731281D111D1DF5E002C51DE /* PBXTextBookmark */ = 731281D111D1DF5E002C51DE /* PBXTextBookmark */;
 			732DA8EC11D17AD0007A2846 = 732DA8EC11D17AD0007A2846 /* PBXTextBookmark */;
 			732DA8EF11D17AD0007A2846 = 732DA8EF11D17AD0007A2846 /* PBXTextBookmark */;
 			732DA8F111D17AD0007A2846 = 732DA8F111D17AD0007A2846 /* PBXTextBookmark */;
@@ -143,6 +147,13 @@
 		};
 		sourceControlManager = 732DA4EA11D1544F007A2846 /* Source Control */;
 		userBuildSettings = {
+		};
+	};
+	32CA4F630368D1EE00C91783 /* Syntax_Prefix.pch */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1578, 797}}";
+			sepNavSelRange = "{185, 0}";
+			sepNavVisRange = "{0, 185}";
 		};
 	};
 	73127EFD11D1C763002C51DE /* PBXTextBookmark */ = {
@@ -246,6 +257,58 @@
 		name = index.html;
 		path = /Users/amcgregor/Projects/iOS/CodeView/WebRoot/index.html;
 		sourceTree = "<absolute>";
+	};
+	731281CA11D1DF55002C51DE /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 73127F2911D1D16C002C51DE /* Icon.png */;
+	};
+	731281CB11D1DF55002C51DE /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 731281CC11D1DF55002C51DE /* index.html */;
+		name = "index.html: 75";
+		rLen = 0;
+		rLoc = 2400;
+		rType = 0;
+		vrLen = 1815;
+		vrLoc = 1134;
+	};
+	731281CC11D1DF55002C51DE /* index.html */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = text.html;
+		name = index.html;
+		path = /Users/amcgregor/Projects/iOS/Syntax/WebRoot/index.html;
+		sourceTree = "<absolute>";
+	};
+	731281CD11D1DF55002C51DE /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 731281CE11D1DF55002C51DE /* index.html */;
+		name = "index.html: 33";
+		rLen = 0;
+		rLoc = 1209;
+		rType = 0;
+		vrLen = 1815;
+		vrLoc = 1134;
+	};
+	731281CE11D1DF55002C51DE /* index.html */ = {
+		isa = PBXFileReference;
+		name = index.html;
+		path = /Users/amcgregor/Projects/iOS/Syntax/WebRoot/index.html;
+		sourceTree = "<absolute>";
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1578, 1222}}";
+			sepNavSelRange = "{1209, 0}";
+			sepNavVisRange = "{1134, 1815}";
+		};
+	};
+	731281D111D1DF5E002C51DE /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 731281CE11D1DF55002C51DE /* index.html */;
+		name = "index.html: 33";
+		rLen = 0;
+		rLoc = 1209;
+		rType = 0;
+		vrLen = 1746;
+		vrLoc = 1134;
 	};
 	732DA4D811D15449007A2846 /* Syntax */ = {
 		isa = PBXExecutable;
